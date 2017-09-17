@@ -1,5 +1,5 @@
-# React - exemplos básicos de testes unitários para testar os componentes. 
-# React - basic examples of unit tests to test components.
+# React - exemplos básicos de testes unitários para testar componentes. 
+basic examples of unit tests to test components.
 
 # Setup
 npm install --save-dev jest babel-set-react react-test-rendererl-pres
